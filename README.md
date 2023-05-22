@@ -18,24 +18,41 @@ e as colunas são numeradas de 1 a C da esquerda para a direita. Células com S[
 monstros, outras contêm poções mágicas.
 
 Exemplo de entrada:
+
 3
+
 2 3
+
 0 1 -3
+
 1 -2 0
+
 2 2
+
 0 1
+
 2 0
+
 3 4
+
 0 -2 -3 1
+
 -1 4 0 -2
+
 1 -2 -3 0
 
 Exemplo de saída:
+
 2
+
 1
+
 2
 
 Grid de exmplo:
+
 ![grid1](https://github.com/Arthur99Silva/Grids/assets/51514914/bd644841-ccad-4940-a140-581dd13e9bcf)
+
 Caminho mínimo:
+
 ![Minimo1](https://github.com/Arthur99Silva/Grids/assets/51514914/19d7b17c-b2e6-42e1-bc14-6cf269f9d324)

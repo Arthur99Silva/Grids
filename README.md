@@ -49,7 +49,7 @@ Exemplo de saída:
 
 2
 
-Grid de exmplo:
+Grid de exemplo:
 
 ![grid1](https://github.com/Arthur99Silva/Grids/assets/51514914/bd644841-ccad-4940-a140-581dd13e9bcf)
 
